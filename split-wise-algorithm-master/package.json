@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node server.js"
     },
-    "author": "Tarang Singhal",
+    "author": "Rishabh Sharma",
     "license": "ISC",
     "dependencies": {
         "ejs": "^3.1.3",
